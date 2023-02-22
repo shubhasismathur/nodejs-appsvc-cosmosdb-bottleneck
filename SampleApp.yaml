@@ -1,4 +1,4 @@
-version: v0.1
+version: v0.1 #https://learn.microsoft.com/en-us/azure/load-testing/reference-test-config-yaml sample yaml
 testId: SampleAppTest
 displayName: Sample Test
 testPlan: SampleApp.jmx
